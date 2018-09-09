@@ -1,0 +1,16 @@
+[package]
+name = "objview"
+version = "0.1.0"
+authors = ["Stephen Molyneaux <WimbledonLabs@github.com>"]
+
+[dependencies]
+gfx = "0.17.1"
+gfx_core = "0.8.2"
+glutin = "0.18"
+gfx_window_glutin = "0.26"
+nalgebra = "0.15"
+alga = "0.6"
+image = "*"
+imgui = "0.0.20"
+imgui-sys = "0.0.20"
+imgui-gfx-renderer = "0.0.20"
